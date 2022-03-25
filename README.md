@@ -1,4 +1,4 @@
-- 👋 Hi, I’m MasterFoo (@foobar-git)
+- 👋 What's up my dudes? This is MasterFoo (@foobar-git).
 - 👀 I’m interested in web development and game development.
 - 📫 My links:
 -     website:          https://games.zenmasters.org/
