@@ -4,6 +4,7 @@
 -     website:          https://games.zenmasters.org/
 -     itch.io:          https://zenmasters.itch.io/
 -     youtube channel:  https://www.youtube.com/channel/UCMB6YjbqjMBlRhHNubtwGuQ
+-     hackerrank:       https://www.hackerrank.com/MasterFoo
 
 <!---
 - 🌱 I’m currently learning ...
