@@ -1,5 +1,5 @@
-- 👋 What's up my dudes? This is MasterFoo (@foobar-git).
-- 👀 My interests include web dev and game dev.
+- 👋 What's up my dudes? It's MasterFoo.
+- 👀 My interests include web dev, and game dev, and theoretical physics.
 - 📫 My links:
 -     website:          https://games.zenmasters.org/
 -     itch.io:          https://zenmasters.itch.io/
