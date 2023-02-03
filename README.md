@@ -3,7 +3,7 @@
 - 📫 Links:
 -     website           zenmasters.software/games
 -     itch.io           zenmasters.itch.io/
--     youtube           youtube.com/channel/UCMB6YjbqjMBlRhHNubtwGuQ
+-     youtube           youtube.com/@zenmasters_games
 -     hackerrank        hackerrank.com/MasterFoo
 
 <!---
